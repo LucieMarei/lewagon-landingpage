@@ -1,0 +1,82 @@
+body{
+/*background-image: url("images/background.jpeg");
+background-repeat: no-repeat;*/
+text-align: center;
+margin: 0;
+padding: 0;
+background-color: white;
+	} 
+h1 {
+color: magenta;
+font-family: 'Titillium Web', sans-serif;
+font-weight: 700;
+}
+p	{
+	font-family: 'Titillium Web', sans-serif;
+	color: white;
+	font-weight: 400;
+}
+
+#banner a {
+	background-color: #729d39;
+	padding: 12px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+a:hover {
+	color: magenta;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://www.futurity.org/wp/wp-content/uploads/2015/11/alaska_mountains_1170.jpg");
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+	background-position: center;
+	padding-top: 200px;
+	font-weight: 400;
+
+}
+
+#footer {
+	background-color: #729d39;
+	padding: 10px;
+	color: white;
+}
+
+footer ul{
+	text-align: center;
+}
+
+section {
+
+}
+
+.fab {
+	color: white;
+}
+
+.fab:hover {
+	color: magenta;
+
+
+}
+
+.container p {
+	color: magenta;
+	font-family: 'Titillium Web', sans-serif; 
+	font-weight: 700;
+}
+
+.section {
+	text-align: center;
+}
+
+
+/*banner {
+	text-align: center;
+	background-image: url("https://www.chinadialogue.net/article/show/single/en/10865-Q-A-Lessons-from-centuries-of-indigenous-forest-management");
+	height: 100vh;
+	width: 100vw;
+}*/
